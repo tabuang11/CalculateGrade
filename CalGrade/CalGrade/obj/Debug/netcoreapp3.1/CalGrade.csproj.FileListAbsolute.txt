@@ -1,0 +1,11 @@
+D:\CalGrade\CalGrade\CalGrade\bin\Debug\netcoreapp3.1\CalGrade.exe
+D:\CalGrade\CalGrade\CalGrade\bin\Debug\netcoreapp3.1\CalGrade.deps.json
+D:\CalGrade\CalGrade\CalGrade\bin\Debug\netcoreapp3.1\CalGrade.runtimeconfig.json
+D:\CalGrade\CalGrade\CalGrade\bin\Debug\netcoreapp3.1\CalGrade.runtimeconfig.dev.json
+D:\CalGrade\CalGrade\CalGrade\bin\Debug\netcoreapp3.1\CalGrade.dll
+D:\CalGrade\CalGrade\CalGrade\bin\Debug\netcoreapp3.1\CalGrade.pdb
+D:\CalGrade\CalGrade\CalGrade\obj\Debug\netcoreapp3.1\CalGrade.csprojAssemblyReference.cache
+D:\CalGrade\CalGrade\CalGrade\obj\Debug\netcoreapp3.1\CalGrade.AssemblyInfoInputs.cache
+D:\CalGrade\CalGrade\CalGrade\obj\Debug\netcoreapp3.1\CalGrade.AssemblyInfo.cs
+D:\CalGrade\CalGrade\CalGrade\obj\Debug\netcoreapp3.1\CalGrade.dll
+D:\CalGrade\CalGrade\CalGrade\obj\Debug\netcoreapp3.1\CalGrade.pdb
