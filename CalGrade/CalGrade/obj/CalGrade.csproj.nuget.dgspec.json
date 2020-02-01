@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CalGrade\\CalGrade\\CalGrade\\CalGrade.csproj": {}
+    "D:\\CalculateGrade\\CalGrade\\CalGrade\\CalGrade.csproj": {}
   },
   "projects": {
-    "D:\\CalGrade\\CalGrade\\CalGrade\\CalGrade.csproj": {
+    "D:\\CalculateGrade\\CalGrade\\CalGrade\\CalGrade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CalGrade\\CalGrade\\CalGrade\\CalGrade.csproj",
+        "projectUniqueName": "D:\\CalculateGrade\\CalGrade\\CalGrade\\CalGrade.csproj",
         "projectName": "CalGrade",
-        "projectPath": "D:\\CalGrade\\CalGrade\\CalGrade\\CalGrade.csproj",
+        "projectPath": "D:\\CalculateGrade\\CalGrade\\CalGrade\\CalGrade.csproj",
         "packagesPath": "C:\\Users\\Tabuang Jandam\\.nuget\\packages\\",
-        "outputPath": "D:\\CalGrade\\CalGrade\\CalGrade\\obj\\",
+        "outputPath": "D:\\CalculateGrade\\CalGrade\\CalGrade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tabuang Jandam\\AppData\\Roaming\\NuGet\\NuGet.Config"
