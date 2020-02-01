@@ -1,0 +1,11 @@
+D:\CalculateGrade\Calgrade2\Calgrade2\bin\Debug\netcoreapp3.1\Calgrade2.exe
+D:\CalculateGrade\Calgrade2\Calgrade2\bin\Debug\netcoreapp3.1\Calgrade2.deps.json
+D:\CalculateGrade\Calgrade2\Calgrade2\bin\Debug\netcoreapp3.1\Calgrade2.runtimeconfig.json
+D:\CalculateGrade\Calgrade2\Calgrade2\bin\Debug\netcoreapp3.1\Calgrade2.runtimeconfig.dev.json
+D:\CalculateGrade\Calgrade2\Calgrade2\bin\Debug\netcoreapp3.1\Calgrade2.dll
+D:\CalculateGrade\Calgrade2\Calgrade2\bin\Debug\netcoreapp3.1\Calgrade2.pdb
+D:\CalculateGrade\Calgrade2\Calgrade2\obj\Debug\netcoreapp3.1\Calgrade2.csprojAssemblyReference.cache
+D:\CalculateGrade\Calgrade2\Calgrade2\obj\Debug\netcoreapp3.1\Calgrade2.AssemblyInfoInputs.cache
+D:\CalculateGrade\Calgrade2\Calgrade2\obj\Debug\netcoreapp3.1\Calgrade2.AssemblyInfo.cs
+D:\CalculateGrade\Calgrade2\Calgrade2\obj\Debug\netcoreapp3.1\Calgrade2.dll
+D:\CalculateGrade\Calgrade2\Calgrade2\obj\Debug\netcoreapp3.1\Calgrade2.pdb

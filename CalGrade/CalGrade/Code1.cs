@@ -2,7 +2,7 @@
 
 namespace CalGrade
 {
-    class Program
+    class Code1
     {
         static void Main(string[] args)
         {
@@ -10,43 +10,47 @@ namespace CalGrade
             String grade;
             Console.Write("Enter your Score : ");
             int.TryParse(Console.ReadLine(), out score);
+            if (score <= 100)
+            {
+                if (score >= 80)
+                {
+                    grade = "A";
+                }
+                else if (score >= 75)
+                {
+                    grade = "B+";
+                }
+                else if (score >= 70)
+                {
+                    grade = "B";
+                }
+                else if (score >= 65)
+                {
+                    grade = "C+";
+                }
+                else if (score >= 60)
+                {
+                    grade = "C";
+                }
+                else if (score >= 55)
+                {
+                    grade = "D+";
+                }
+                else if (score >= 50)
+                {
+                    grade = "D";
+                }
+                else
+                {
+                    grade = "F";
+                }
 
-            
-            
-            if (score >= 80)
-            {
-                grade = "A";
-            }
-            else if(score >= 75)
-            {
-                grade = "B+";
-            }
-            else if (score >= 70)
-            {
-                grade = "B";
-            }
-            else if(score >= 65)
-            {
-                grade = "C+";
-            }
-            else if (score >= 60)
-            {
-                grade = "C";
-            }
-            else if(score >= 55)
-            {
-                grade = "D+";
-            }
-            else if (score >= 50)
-            {
-                grade = "D";
+                Console.Write("Your Grade is :" + grade);
             }
             else
             {
-                grade = "F";
+               Console.Write("Maximum must be below 100"); 
             }
-            Console.Write("Your Grade is :" + grade);
-            
         }    
     }
 }

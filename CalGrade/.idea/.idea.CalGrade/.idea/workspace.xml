@@ -24,7 +24,19 @@
     <option name="showStatusBarWidget" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04d06ae9-1b6f-4a7c-a9b6-1f2b2feaf581" name="Default Changelist" comment="" />
+    <list default="true" id="04d06ae9-1b6f-4a7c-a9b6-1f2b2feaf581" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CalGrade/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CalGrade/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CalGrade/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CalGrade/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalGrade/Code1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalGrade/Code1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalGrade/Code2.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalGrade/bin/Debug/netcoreapp3.1/CalGrade.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CalGrade/bin/Debug/netcoreapp3.1/CalGrade.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalGrade/bin/Debug/netcoreapp3.1/CalGrade.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CalGrade/bin/Debug/netcoreapp3.1/CalGrade.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalGrade/obj/Debug/netcoreapp3.1/CalGrade.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CalGrade/obj/Debug/netcoreapp3.1/CalGrade.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalGrade/obj/Debug/netcoreapp3.1/CalGrade.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CalGrade/obj/Debug/netcoreapp3.1/CalGrade.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalGrade/obj/Debug/netcoreapp3.1/CalGrade.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CalGrade/obj/Debug/netcoreapp3.1/CalGrade.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalGrade/obj/Debug/netcoreapp3.1/CalGrade.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CalGrade/obj/Debug/netcoreapp3.1/CalGrade.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_Upload01.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,25 +46,29 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/CalGrade/Code2.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CalGrade/Code1.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/CalGrade/Program.cs" />
+        <option value="$PROJECT_DIR$/CalGrade/test.cs" />
+        <option value="$PROJECT_DIR$/CalGrade/Code1.cs" />
         <option value="$PROJECT_DIR$/CalGrade/Code2.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1XDpF4Po7y3OeTzIk1Pdy3Ln0rI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TWShift.4" value="true" />
@@ -102,7 +118,8 @@
       <option name="presentableId" value="Default" />
       <updated>1580590415624</updated>
       <workItem from="1580590423376" duration="1577000" />
-      <workItem from="1580593303666" duration="349000" />
+      <workItem from="1580593303666" duration="1777000" />
+      <workItem from="1580600612976" duration="23000" />
     </task>
     <servers />
   </component>
@@ -116,32 +133,37 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="184" key="#Notifications" timestamp="1580591372152">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="184" key="#Notifications/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580591372152" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1580591857226">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1580600313080">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580591857226" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1580591857226">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580600313080" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1580600313080">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580591857226" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1580591857226">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580600313080" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1580600313080">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580591857226" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1580591857226">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580600313080" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1580600313080">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580591857226" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580600313080" />
   </component>
 </project>
