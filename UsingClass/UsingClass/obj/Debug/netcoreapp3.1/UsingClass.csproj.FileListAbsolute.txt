@@ -9,3 +9,14 @@ D:\Other\CalculateGrade\UsingClass\UsingClass\obj\Debug\netcoreapp3.1\UsingClass
 D:\Other\CalculateGrade\UsingClass\UsingClass\obj\Debug\netcoreapp3.1\UsingClass.AssemblyInfo.cs
 D:\Other\CalculateGrade\UsingClass\UsingClass\obj\Debug\netcoreapp3.1\UsingClass.dll
 D:\Other\CalculateGrade\UsingClass\UsingClass\obj\Debug\netcoreapp3.1\UsingClass.pdb
+D:\Other\CalculateGrade\CalculateGrade\UsingClass\UsingClass\bin\Debug\netcoreapp3.1\UsingClass.exe
+D:\Other\CalculateGrade\CalculateGrade\UsingClass\UsingClass\bin\Debug\netcoreapp3.1\UsingClass.deps.json
+D:\Other\CalculateGrade\CalculateGrade\UsingClass\UsingClass\bin\Debug\netcoreapp3.1\UsingClass.runtimeconfig.json
+D:\Other\CalculateGrade\CalculateGrade\UsingClass\UsingClass\bin\Debug\netcoreapp3.1\UsingClass.runtimeconfig.dev.json
+D:\Other\CalculateGrade\CalculateGrade\UsingClass\UsingClass\bin\Debug\netcoreapp3.1\UsingClass.dll
+D:\Other\CalculateGrade\CalculateGrade\UsingClass\UsingClass\bin\Debug\netcoreapp3.1\UsingClass.pdb
+D:\Other\CalculateGrade\CalculateGrade\UsingClass\UsingClass\obj\Debug\netcoreapp3.1\UsingClass.csprojAssemblyReference.cache
+D:\Other\CalculateGrade\CalculateGrade\UsingClass\UsingClass\obj\Debug\netcoreapp3.1\UsingClass.AssemblyInfoInputs.cache
+D:\Other\CalculateGrade\CalculateGrade\UsingClass\UsingClass\obj\Debug\netcoreapp3.1\UsingClass.AssemblyInfo.cs
+D:\Other\CalculateGrade\CalculateGrade\UsingClass\UsingClass\obj\Debug\netcoreapp3.1\UsingClass.dll
+D:\Other\CalculateGrade\CalculateGrade\UsingClass\UsingClass\obj\Debug\netcoreapp3.1\UsingClass.pdb
