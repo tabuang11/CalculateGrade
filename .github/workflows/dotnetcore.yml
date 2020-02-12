@@ -12,8 +12,8 @@ jobs:
     - name: Setup .NET Core
       uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: 2.2.108
+        dotnet-version: 3.1.101
     - name: Build with dotnet
-      run: dotnet build --configuration Release .\UsingClass\
-    - name: Testing Grade
-      run: ./UsingClass/UsingClass/bin/Release/netcoreapp3.1/UsingClass.exe --unittest
+      run: dotnet build --configuration Release .\UsingClass\UsingClass.sln
+    - name: Unit Test Grade -1 to 101
+      run: .\UsingClass\UsingClass\bin\Release\netcoreapp3.1\UsingClass.exe --unittest
