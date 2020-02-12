@@ -3,7 +3,7 @@ name: GradeCalc
 on: [push]
 
 jobs:
-  build & test:
+  build_test:
 
     runs-on: ubuntu-latest
 
