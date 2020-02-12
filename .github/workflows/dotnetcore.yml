@@ -14,6 +14,6 @@ jobs:
       with:
         dotnet-version: 3.1.101
     - name: Build with dotnet
-      run: dotnet build --configuration Release ./UsingClass/UsingClass.sln
+      run: dotnet build --nologo --configuration Release --output ./build ./UsingClass/UsingClass.sln
     - name: Unit Test Grade -1 to 101
-      run: ./UsingClass/UsingClass/bin/Release/netcoreapp3.1/UsingClass.exe --unittest
+      run: ./build/UsingClass --unittest
