@@ -1,0 +1,27 @@
+name: .NET Core
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Setup .NET Core
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: 2.2.108
+    - name: Use Project CalGrade UsubgClass
+      run: cd ./UsingClass
+    - name: Build with dotnet
+      run: dotnet build --configuration Release
+  unit-test:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Use Project CalGrade UsubgClass
+      run: cd ./UsingClass/UsingClass/bin/Release/netcoreapp3.1
+    - name: Build with dotnet
+      run: ./UsingClass.exe --unittest
