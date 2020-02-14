@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "D:\\Users\\JaTabuang\\.nuget\\packages\\": {}
+    "C:\\Users\\TABUANG\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,18 +16,16 @@
       "projectUniqueName": "D:\\CalculateGrade\\UsingClass\\UsingClass\\UsingClass.csproj",
       "projectName": "UsingClass",
       "projectPath": "D:\\CalculateGrade\\UsingClass\\UsingClass\\UsingClass.csproj",
-      "packagesPath": "D:\\Users\\JaTabuang\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\TABUANG\\.nuget\\packages\\",
       "outputPath": "D:\\CalculateGrade\\UsingClass\\UsingClass\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "D:\\Users\\JaTabuang\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\TABUANG\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\TABUANG\\.dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
