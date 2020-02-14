@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="D:\Other\CalculateGrade\CalculateGrade\UsingClass" t="IncludeFlat">
+    <e p="D:\CalculateGrade\UsingClass" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="UsingClass" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Code1.cs" t="Include" />
         <e p="Code2.cs" t="Include" />
+        <e p="Code3.cs" t="Include" />
+        <e p="Code4.cs" t="Include" />
+        <e p="Coed5.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
@@ -20,6 +23,6 @@
       <e p="UsingClass.sln" t="IncludeFlat" />
     </e>
     <e p="D:\Users\JaTabuang\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="D:\Users\JaTabuang\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_UsingClass.2080714436.00" t="ExcludeRecursive" />
+    <e p="D:\Users\JaTabuang\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_UsingClass.1204959243.00" t="ExcludeRecursive" />
   </component>
 </project>
